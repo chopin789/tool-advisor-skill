@@ -1,5 +1,8 @@
 # Tool Advisor Skill for Claude Code
 
+> 工具装了不用，等于没装。
+> Tool Advisor 让每个 skill、每个 MCP，都在该出现的时候出现。
+
 **中文** | [English](#english)
 
 ---
